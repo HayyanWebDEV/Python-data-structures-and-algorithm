@@ -1,0 +1,10 @@
+online = set()
+
+online.add('ali')
+online.add('hayyan')
+online.add('hamza')
+online.add('faizan')
+print(online)
+online.add('hayyan')
+online.add('huzaifa')
+print((online))
